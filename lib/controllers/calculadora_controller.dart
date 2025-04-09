@@ -1,4 +1,7 @@
 
+
+import 'package:calculadora_foto/models/multiplicaci%C3%B3n.dart';
+
 class MultiplicacionController{
   double? resultado;
 
